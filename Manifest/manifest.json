@@ -5,8 +5,8 @@
   "id": "60c018e5-ac11-4e5d-9137-cb1fe6bbef9e",
   "packageName": "com.microsoft.teams.bookaroom",
   "developer": {
-    "name": "<company name>",
-    "websiteUrl": "<website url>",
+    "name": "<NVIDIA CORPORATION>",
+    "websiteUrl": "<https://nvidia.com>",
     "privacyUrl": "<privacy url>",
     "termsOfUseUrl": "<terms of use url>"
   },
@@ -21,7 +21,7 @@
     "short": "Book-a-room bot lets you quickly find and book a meeting room on the go.",
     "full": "Book-a-room bot will let you easily book a room on the go in a personal scope. The users can look at available rooms depending on the selected location/building and time and select one from the list to book the room."
   },
-  "accentColor": "#F88834",
+  "accentColor": "#76B900",
   "bots": [
     {
       "botId": "<bot id>",
